@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\bin\Debug\net6.0\listas.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\bin\Debug\net6.0\listas.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\bin\Debug\net6.0\listas.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\bin\Debug\net6.0\listas.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\bin\Debug\net6.0\listas.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\refint\listas.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\listas.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\listas\obj\Debug\net6.0\ref\listas.dll

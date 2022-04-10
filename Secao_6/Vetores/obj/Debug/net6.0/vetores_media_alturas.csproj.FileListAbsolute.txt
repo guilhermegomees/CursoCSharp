@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\bin\Debug\net6.0\vetores_media_alturas.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\bin\Debug\net6.0\vetores_media_alturas.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\bin\Debug\net6.0\vetores_media_alturas.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\bin\Debug\net6.0\vetores_media_alturas.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\bin\Debug\net6.0\vetores_media_alturas.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\refint\vetores_media_alturas.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\vetores_media_alturas.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Vetores\obj\Debug\net6.0\ref\vetores_media_alturas.dll

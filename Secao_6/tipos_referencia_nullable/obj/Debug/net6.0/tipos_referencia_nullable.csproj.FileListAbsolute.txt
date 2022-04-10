@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\bin\Debug\net6.0\tipos_referencia_nullable.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\bin\Debug\net6.0\tipos_referencia_nullable.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\bin\Debug\net6.0\tipos_referencia_nullable.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\bin\Debug\net6.0\tipos_referencia_nullable.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\bin\Debug\net6.0\tipos_referencia_nullable.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\refint\tipos_referencia_nullable.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\tipos_referencia_nullable.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\tipos_referencia_nullable\obj\Debug\net6.0\ref\tipos_referencia_nullable.dll

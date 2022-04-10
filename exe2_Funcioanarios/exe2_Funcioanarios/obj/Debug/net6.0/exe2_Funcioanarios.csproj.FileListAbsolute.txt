@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\bin\Debug\net6.0\exe2_Funcioanarios.exe
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\bin\Debug\net6.0\exe2_Funcioanarios.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\bin\Debug\net6.0\exe2_Funcioanarios.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\bin\Debug\net6.0\exe2_Funcioanarios.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\bin\Debug\net6.0\exe2_Funcioanarios.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\refint\exe2_Funcioanarios.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\exe2_Funcioanarios.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe2_Funcioanarios\exe2_Funcioanarios\obj\Debug\net6.0\ref\exe2_Funcioanarios.dll

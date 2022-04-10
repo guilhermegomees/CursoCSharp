@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\bin\Debug\net6.0\modificadodores.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\bin\Debug\net6.0\modificadodores.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\bin\Debug\net6.0\modificadodores.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\bin\Debug\net6.0\modificadodores.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\bin\Debug\net6.0\modificadodores.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\refint\modificadodores.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\modificadodores.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\modificador_params\obj\Debug\net6.0\ref\modificadodores.dll

@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\bin\Debug\net6.0\Struct.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\bin\Debug\net6.0\Struct.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\bin\Debug\net6.0\Struct.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\bin\Debug\net6.0\Struct.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\refint\Struct.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\Struct\obj\Debug\net6.0\ref\Struct.dll

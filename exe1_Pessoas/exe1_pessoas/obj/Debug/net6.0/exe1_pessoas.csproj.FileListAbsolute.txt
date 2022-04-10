@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\bin\Debug\net6.0\exe1_pessoas.exe
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\bin\Debug\net6.0\exe1_pessoas.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\bin\Debug\net6.0\exe1_pessoas.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\bin\Debug\net6.0\exe1_pessoas.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\bin\Debug\net6.0\exe1_pessoas.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\refint\exe1_pessoas.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\exe1_pessoas.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_pessoas\exe1_pessoas\obj\Debug\net6.0\ref\exe1_pessoas.dll

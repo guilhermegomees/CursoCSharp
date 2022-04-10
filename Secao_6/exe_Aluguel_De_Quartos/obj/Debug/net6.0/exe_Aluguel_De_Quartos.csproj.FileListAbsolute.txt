@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\bin\Debug\net6.0\exe_Aluguel_De_Quartos.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\bin\Debug\net6.0\exe_Aluguel_De_Quartos.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\bin\Debug\net6.0\exe_Aluguel_De_Quartos.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\bin\Debug\net6.0\exe_Aluguel_De_Quartos.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\bin\Debug\net6.0\exe_Aluguel_De_Quartos.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\refint\exe_Aluguel_De_Quartos.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\exe_Aluguel_De_Quartos.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Aluguel_De_Quartos\obj\Debug\net6.0\ref\exe_Aluguel_De_Quartos.dll

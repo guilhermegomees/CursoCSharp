@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\bin\Debug\net6.0\CotacaDolar_MembrosEstaticos.exe
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\bin\Debug\net6.0\CotacaDolar_MembrosEstaticos.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\bin\Debug\net6.0\CotacaDolar_MembrosEstaticos.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\bin\Debug\net6.0\CotacaDolar_MembrosEstaticos.dll
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\bin\Debug\net6.0\CotacaDolar_MembrosEstaticos.pdb
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.dll
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\refint\CotacaDolar_MembrosEstaticos.dll
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.pdb
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\CotacaDolar_MembrosEstaticos.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\CotacaDolar_MembrosEstaticos\CotacaDolar_MembrosEstaticos\obj\Debug\net6.0\ref\CotacaDolar_MembrosEstaticos.dll

@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\bin\Debug\net6.0\vetores_media_precos.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\bin\Debug\net6.0\vetores_media_precos.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\bin\Debug\net6.0\vetores_media_precos.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\bin\Debug\net6.0\vetores_media_precos.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\bin\Debug\net6.0\vetores_media_precos.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\refint\vetores_media_precos.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\vetores_media_precos.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\vetores_media_precos\obj\Debug\net6.0\ref\vetores_media_precos.dll
