@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\bin\Debug\net6.0\exe3_Aluno_Fixacao.exe
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\bin\Debug\net6.0\exe3_Aluno_Fixacao.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\bin\Debug\net6.0\exe3_Aluno_Fixacao.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\bin\Debug\net6.0\exe3_Aluno_Fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\bin\Debug\net6.0\exe3_Aluno_Fixacao.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\refint\exe3_Aluno_Fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\exe3_Aluno_Fixacao.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe3_Aluno_Fixacao\obj\Debug\net6.0\ref\exe3_Aluno_Fixacao.dll

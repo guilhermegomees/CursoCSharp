@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\bin\Debug\net6.0\exe1_Retangulo_Fixacao.exe
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\bin\Debug\net6.0\exe1_Retangulo_Fixacao.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\bin\Debug\net6.0\exe1_Retangulo_Fixacao.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\bin\Debug\net6.0\exe1_Retangulo_Fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\bin\Debug\net6.0\exe1_Retangulo_Fixacao.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\refint\exe1_Retangulo_Fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\exe1_Retangulo_Fixacao.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe1_Retangulo_Fixacao\obj\Debug\net6.0\ref\exe1_Retangulo_Fixacao.dll

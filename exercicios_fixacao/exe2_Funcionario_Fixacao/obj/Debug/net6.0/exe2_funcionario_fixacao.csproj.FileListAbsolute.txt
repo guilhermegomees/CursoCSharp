@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\bin\Debug\net6.0\exe2_funcionario_fixacao.exe
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\bin\Debug\net6.0\exe2_funcionario_fixacao.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\bin\Debug\net6.0\exe2_funcionario_fixacao.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\bin\Debug\net6.0\exe2_funcionario_fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\bin\Debug\net6.0\exe2_funcionario_fixacao.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\refint\exe2_funcionario_fixacao.dll
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.pdb
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\exe2_funcionario_fixacao.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\exe1_Retangulo_Fixacao\exe2_funcionario_fixacao\obj\Debug\net6.0\ref\exe2_funcionario_fixacao.dll
