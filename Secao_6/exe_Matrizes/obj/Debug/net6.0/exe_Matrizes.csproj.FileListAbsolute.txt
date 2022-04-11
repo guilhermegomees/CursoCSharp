@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\bin\Debug\net6.0\exe_Matrizes.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\bin\Debug\net6.0\exe_Matrizes.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\bin\Debug\net6.0\exe_Matrizes.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\bin\Debug\net6.0\exe_Matrizes.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\bin\Debug\net6.0\exe_Matrizes.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\refint\exe_Matrizes.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\exe_Matrizes.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Matrizes\obj\Debug\net6.0\ref\exe_Matrizes.dll

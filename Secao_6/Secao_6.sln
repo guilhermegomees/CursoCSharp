@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exe_Aluguel_De_Quartos", "e
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "modificadodores", "modificador_params\modificadodores.csproj", "{032C6022-36E2-447C-9C00-0681471A0847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listas", "listas\listas.csproj", "{5E426CB0-8D5B-4076-A9C5-5D8262A70763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listas", "listas\listas.csproj", "{5E426CB0-8D5B-4076-A9C5-5D8262A70763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exe_AumentoSalario_List", "exe_AumentoSalario_List\exe_AumentoSalario_List.csproj", "{4CD0A197-7FD9-4DFF-9B42-3FFF559671E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exe_AumentoSalario_List", "exe_AumentoSalario_List\exe_AumentoSalario_List.csproj", "{4CD0A197-7FD9-4DFF-9B42-3FFF559671E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exe_Matrizes", "exe_Matrizes\exe_Matrizes.csproj", "{07AC8373-B571-4B53-ADFB-EC7F4C295A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exe_Fixacao_Matrizes", "exe_Fixacao_Matrizes\exe_Fixacao_Matrizes.csproj", "{F262D5D0-3800-4E07-82D0-AD0746262D1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{4CD0A197-7FD9-4DFF-9B42-3FFF559671E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD0A197-7FD9-4DFF-9B42-3FFF559671E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD0A197-7FD9-4DFF-9B42-3FFF559671E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AC8373-B571-4B53-ADFB-EC7F4C295A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AC8373-B571-4B53-ADFB-EC7F4C295A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AC8373-B571-4B53-ADFB-EC7F4C295A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AC8373-B571-4B53-ADFB-EC7F4C295A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F262D5D0-3800-4E07-82D0-AD0746262D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F262D5D0-3800-4E07-82D0-AD0746262D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F262D5D0-3800-4E07-82D0-AD0746262D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F262D5D0-3800-4E07-82D0-AD0746262D1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

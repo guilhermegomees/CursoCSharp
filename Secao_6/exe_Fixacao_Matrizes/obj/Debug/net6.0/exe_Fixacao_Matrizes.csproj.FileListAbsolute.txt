@@ -1,0 +1,15 @@
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\bin\Debug\net6.0\exe_Fixacao_Matrizes.exe
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\bin\Debug\net6.0\exe_Fixacao_Matrizes.deps.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\bin\Debug\net6.0\exe_Fixacao_Matrizes.runtimeconfig.json
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\bin\Debug\net6.0\exe_Fixacao_Matrizes.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\bin\Debug\net6.0\exe_Fixacao_Matrizes.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.csproj.AssemblyReference.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.AssemblyInfoInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.AssemblyInfo.cs
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\refint\exe_Fixacao_Matrizes.dll
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.pdb
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\exe_Fixacao_Matrizes.genruntimeconfig.cache
+C:\Users\requestia\Documents\projetosVS_C#\Secao_6\exe_Fixacao_Matrizes\obj\Debug\net6.0\ref\exe_Fixacao_Matrizes.dll
