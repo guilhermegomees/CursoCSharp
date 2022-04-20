@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace exe_Aluguel_De_Quartos
+namespace exe_Fixacao_Matrizes
 {
     class Program
     {
