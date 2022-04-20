@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums_Exemplo", "enum\Enums_Exemplo.csproj", "{06C4620F-609F-4F23-81B0-20725991B6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exe_Trabalhador_Enum", "exe_Trabalhador_Enum\exe_Trabalhador_Enum.csproj", "{226F97D9-0BB7-49C5-8F63-D75C805E03A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C4620F-609F-4F23-81B0-20725991B6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C4620F-609F-4F23-81B0-20725991B6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C4620F-609F-4F23-81B0-20725991B6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C4620F-609F-4F23-81B0-20725991B6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226F97D9-0BB7-49C5-8F63-D75C805E03A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226F97D9-0BB7-49C5-8F63-D75C805E03A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226F97D9-0BB7-49C5-8F63-D75C805E03A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226F97D9-0BB7-49C5-8F63-D75C805E03A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174A78A5-9845-418E-AC8C-FE91E46EE5B5}
+	EndGlobalSection
+EndGlobal
