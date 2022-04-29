@@ -19,10 +19,18 @@ namespace vendas
                 conforme exemplo.
             */
 
-            string path = @"C:\Users\requestia\Documents\projetosVS_C#\Secao_13\vendas.csv";
-            string path1 = @"C:\Users\requestia\Documents\projetosVS_C#\Secao_13\out\summary.csv";
+            Console.Write("Enter file full path: ");
+            string path = Console.ReadLine();
+
+
+
             string elements;
             List<string> values = new List<string>();
+
+            try
+            {
+                string[] lines = File.ReadAllLines(path);
+            }
 
             using (StreamReader sr = File.OpenText(path))
             {
